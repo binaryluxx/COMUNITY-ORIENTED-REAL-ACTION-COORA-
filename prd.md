@@ -381,7 +381,7 @@ Gamification logic
 
 Database & Cloud
 
-Platform: Supabase (PostgreSQL)
+Platform: Supabase
 
 Fungsi:
 
